@@ -1,0 +1,8 @@
+"Time","Note"
+"0:10:22","Can have multiple constructors for same class, but each constructor must take different types of parameters. Types must be unique"
+"0:09:35","Arguments and parameters mean the same thing"
+"0:03:04","Multiple constructors = overloading"
+"0:02:15","No return type for constructor because return type is object of class rectangle, so not necessary to specify this"
+"0:00:25","Also can be used to ensure that when someone else creates one of our classes, they have to provide valid data before they can instantiate it"
+"0:00:10","Constructors have the same name as the class. Typically used to initialize or preset any data that needs to be created in a class"
+"0:00:08","Constructor = special kind of method"

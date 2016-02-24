@@ -1,3 +1,5 @@
-# HelloWorld
-Hello World, the ancient programming ritual. Created in my IDE of choice, Visual Studio. Compiles and runs a simple C# program.
-Created through Udemy course.
+# Programming for Beginners in C#
+All of my code files from completed course on Udemy.
+
+For more info:
+http://andrewrgoss.com/learning/udemy_csharp_for_beginners/

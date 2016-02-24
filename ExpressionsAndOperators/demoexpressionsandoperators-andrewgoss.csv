@@ -1,0 +1,14 @@
+Time,Note
+0:08:00,"Conditional OR
+
+false || false = false
+false || true = true
+true || false = true
+true || true = true"
+0:07:41,"Conditional operators. Conditional AND
+
+false && false = false
+false && true = false
+true && false = false
+true && true = true"
+0:04:53,If a modulus returns 0 the number is a multiple. Ex. 20 % 4 == 0. If no multiples modulus to zero the number is prime
