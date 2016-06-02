@@ -2,4 +2,4 @@
 All of my code and other files from completed course on Udemy.
 
 For more info:
-http://andrewrgoss.com/learning/udemy_csharp_for_beginners/
+http://andrewrgoss.com/2015/udemy--programming-for-beginners-in-c
